@@ -1,4 +1,4 @@
-# Earthquake Predictor
+# Disaster Relief
 
 This is program for Earthquake Predictor. 
 
