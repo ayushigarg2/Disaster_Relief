@@ -1,4 +1,4 @@
-# Google Girl Hackathon 2023 Project
+# Google Girl Hackathon 2024 Project
 # Submitted by Ayushi Aggarwal
 # NIT Kurukshetra
 
